@@ -1,2 +1,6 @@
-target
+.vs
 .vscode
+.idea
+desktop.ini
+target
+Cargo.lock
